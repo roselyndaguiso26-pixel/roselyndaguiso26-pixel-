@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Roselyn Daguiso 👋</h1>
+ <h1 align="center">Hi there, I'm Roselyn Daguiso 👋</h1>
 
 <p align="center">
   Third-year Information Technology student passionate about web development, database systems, and software engineering.
@@ -24,11 +24,11 @@
 ## 📊 GitHub Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roselyn-daguiso26&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roselyndaguiso26-pixel&show_icons=true&theme=tokyonight" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roselyn-daguiso26&theme=tokyonight" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roselyndaguiso26-pixel&theme=tokyonight" />
 </p>
 
 ---
@@ -36,5 +36,5 @@
 ## 👀 Profile Views:
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=roselyn-daguiso26&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=roselyndaguiso26-pixel&color=brightgreen" />
 </p>
