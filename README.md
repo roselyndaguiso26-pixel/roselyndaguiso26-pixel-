@@ -1,85 +1,124 @@
 <div align="center">
 
-# Roselyn Daguiso
+# ───  ✦  Roselyn Daguiso  ✦  ───
 
-**Information Technology Student | Software & Database Developer**
-
-*Specializing in PHP, Laravel Framework, MySQL Architecture, and C# System Development*
+<p align="center">
+  <code><b>3rd-Year IT Student</b></code> &nbsp;•&nbsp; 
+  <code><b>Web Architect</b></code> &nbsp;•&nbsp; 
+  <code><b>Database Developer</b></code>
+</p>
 
 <br>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=PHP+%7C+Laravel+%7C+MySQL+%7C+C%23;Designing+clean+and+scalable+systems;Crafting+modern+web+experiences" alt="Typing SVG" />
+
+<br><br>
+
 <a href="https://github.com/roselyndaguiso26-pixel">
-  <img src="https://komarev.com/ghpvc/?username=roselyndaguiso26-pixel&color=475569&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=roselyndaguiso26-pixel&color=0284c7&style=for-the-badge&label=VISITORS" alt="Profile Views" />
 </a>
 
 </div>
 
----
-
-### About Me
-
-> Dedicated 3rd-year Information Technology student focused on designing scalable web applications, optimizing relational database architecture, and building efficient backend systems.
+<br>
 
 ---
-
-### Technical Proficiency
-
-| Category | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | `PHP` • `C#` • `JavaScript` • `HTML5` |
-| **Frameworks & DB** | `Laravel` • `MySQL` |
-| **Tools & Environment** | `Git` • `VS Code` • `Markdown` |
 
 <br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-</div>
-
----
-
-### Engineering & Activity Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=roselyndaguiso26-pixel&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
+### ⚡ Tech Stack & Technologies
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselyndaguiso26-pixel&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" alt="Most Used Languages" />
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+      <br><sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
+      <br><sub><b>Laravel</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+      <br><sub><b>C#</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" />
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+      <br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" />
+      <br><sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+<br>
+
 ---
 
-### Contact Me Here
+<br>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+### 📊 System Analytics
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=roselyndaguiso26-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselyndaguiso26-pixel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### 🌐 Contact Me Here
+
+<br>
+
 <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://tiktok.com/@YOUR_TIKTOK" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
