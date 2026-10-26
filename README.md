@@ -1,17 +1,34 @@
-<!-- HEADER BANNER -->
+<!-- TOP SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=111827&height=180&section=header&text=Roselyn%20Daguiso&fontSize=28&fontColor=ffffff&animation=fadeIn&subtext=Building%20the%20future,%20one%20line%20of%20code%20at%20a%20time.&subtextFontSize=14&subtextColor=9ca3af" width="100%" alt="Header Banner" />
+  ✨ <i>"Building the future, one line of code at a time."</i> ✨
 </p>
 
-<!-- VISITORS COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roselyndaguiso26-pixel&label=Profile%20Views&color=3b82f6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=roselyndaguiso26-pixel&label=Visitors&color=8b5cf6&style=flat-square" alt="Visitors Counter" />
+</p>
+
+<hr />
+
+<!-- DYNAMIC HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=Roselyn%20Daguiso&fontSize=32&fontColor=ffffff&animation=twinkling&desc=BSIT%20Student%20%7C%20Aspiring%20Web%20%26%20Software%20Developer&descFontSize=14&descAlign=50&descAlignY=62" width="100%" alt="Dynamic Header Banner" />
 </p>
 
 <br />
 
 <!-- ABOUT ME -->
-## 📌 About Me
+<h3 align="center">💜 About Me</h3>
+
+<p align="center">
+  🎓 <b>BSIT Student</b> | 💻 <b>Aspiring Web & Software Developer</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-8b5cf6?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Course-BSIT-8b5cf6?style=flat-square" alt="Course" />
+</p>
+
+<br />
 
 - 🎓 **Education:** 3rd Year Bachelor of Science in Information Technology (BSIT) Student
 - 💻 **Focus:** Web & Software Development | Networking Concepts
@@ -50,14 +67,14 @@
 ## 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/roselyndaguiso26-pixel" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -67,10 +84,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roselyndaguiso26-pixel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselyndaguiso26-pixel&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roselyndaguiso26-pixel&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_color=8b5cf6&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&bg_color=0f172a" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselyndaguiso26-pixel&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&border_color=8b5cf6&title_color=a855f7&text_color=e2e8f0&bg_color=0f172a" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roselyndaguiso26-pixel&theme=dark&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roselyndaguiso26-pixel&theme=tokyonight&hide_border=false&border_radius=10&border=8b5cf6&background=0f172a&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="100%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roselyndaguiso26-pixel/roselyndaguiso26-pixel/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 </p>
