@@ -1,4 +1,4 @@
-<!-- ANIMATED BANNER (hi, Im, ROSELYN DAGUISO) -->
+<!-- ANIMATED BANNER (Hi I'm, ROSELYN DAGUISO) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=220&section=header&text=ROSELYN%20DAGUISO&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40" width="100%" alt="Animated Header Banner" />
 </p>
@@ -14,12 +14,12 @@
 
 <hr />
 
-<!-- ABOUT ME -->
-<h3 align="center">🔎 About Me</h3>
-
 <p align="center">
   🎓 <b>BSIT Student</b> | 💻 <b>Aspiring Web & Software Developer</b>
 </p>
+
+<!-- ABOUT ME -->
+<h3 align="center">🔎 About Me</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-8b5cf6?style=flat-square" alt="Status" />
