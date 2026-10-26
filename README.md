@@ -1,7 +1,7 @@
  <h1 align="center">Hi there, I'm Roselyn Daguiso 👋</h1>
 
 <p align="center">
-  Third-year Information Technology student passionate about web development, database systems, and software engineering.
+  Third-year Information Technology student passionate about web development, database systems.
 </p>
 
 ---
