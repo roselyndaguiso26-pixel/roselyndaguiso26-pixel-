@@ -1,4 +1,4 @@
-<!-- ANIMATED BANNER (ROSELYN DAGUISO) -->
+<!-- ANIMATED BANNER (hi, Im, ROSELYN DAGUISO) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=220&section=header&text=ROSELYN%20DAGUISO&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40" width="100%" alt="Animated Header Banner" />
 </p>
@@ -15,7 +15,7 @@
 <hr />
 
 <!-- ABOUT ME -->
-<h3 align="center">💜 About Me</h3>
+<h3 align="center">🔎 About Me</h3>
 
 <p align="center">
   🎓 <b>BSIT Student</b> | 💻 <b>Aspiring Web & Software Developer</b>
@@ -28,12 +28,10 @@
 
 <br />
 
-- 🎓 **Education:** 3rd Year Bachelor of Science in Information Technology (BSIT) Student
+- 🎓 **Education:** 3rd Year Bachelor of Science in Information Technology (BSIT)
 - 💻 **Focus:** Web & Software Development | Networking Concepts
 - 🛠️ **Featured Project:** *Design and Development monitoring and tracking of Financial Records of Debtors on ABOT Lending Corporation System*
 - 🎯 **Career Goal:** Aspiring Web & Software Developer
-- 📍 **Location:** Albay, Philippines
-- 📫 **Contact:** YOUR_EMAIL@gmail.com
 
 <br />
 
@@ -62,7 +60,7 @@
 <br />
 
 <!-- CONNECT -->
-## 🔗 Let's Connect
+## 🔗 Let's Connect!
 
 <p align="left">
   <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
