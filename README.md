@@ -27,8 +27,6 @@
 </p>
 
 <br />
-
-- 🎓 **Education:** 3rd Year Bachelor of Science in Information Technology (BSIT)
 - 💻 **Focus:** Web & Software Development | Networking Concepts
 - 🛠️ **Featured Project:** *Design and Development monitoring and tracking of Financial Records of Debtors on ABOT Lending Corporation System*
 - 🎯 **Career Goal:** Aspiring Web & Software Developer
