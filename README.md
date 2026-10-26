@@ -1,13 +1,15 @@
+<!-- ANIMATED BANNER (Hi I'm, ROSELYN DAGUISO) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A0E17,0B6623,D4AF37,1D3557&height=200&section=header&text=ROSELYN%20DAGUISO&fontSize=38&fontColor=F5F5DC&fontAlignY=45&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=220&section=header&text=ROSELYN%20DAGUISO&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40" width="100%" alt="Animated Header Banner" />
+</p>
+
+<!-- QUOTE & VISITORS COUNTER -->
+<p align="center">
+  ✨ <i>"Building the future, one line of code at a time."</i> ✨
 </p>
 
 <p align="center">
-  ✨ <em>"Building the future, one line of code at a time."</em> ✨
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roselyndaguiso&color=D4AF37&style=flat-square" alt="Visitors Count" />
+  <img src="https://komarev.com/ghpvc/?username=roselyndaguiso26-pixel&color=D4AF37&style=flat-square" alt="Visitors Count" />
 </p>
 
 ---
@@ -44,12 +46,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=roselyndaguiso&show_icons=true&theme=rose_pine" alt="Roselyn's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=roselyndaguiso&layout=compact&theme=rose_pine" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roselyndaguiso26-pixel&show_icons=true&locale=en&theme=rose_pine" alt="Roselyn's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselyndaguiso26-pixel&layout=compact&theme=rose_pine" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roselyndaguiso&theme=react-dark&bg_color=181825&color=d4af37&line=800020&point=f5f5dc&area=true&hide_border=true" alt="Roselyn's Contribution Graph" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roselyndaguiso26-pixel&theme=rose_pine" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
