@@ -1,4 +1,9 @@
-<!-- TOP SECTION -->
+<!-- ANIMATED BANNER (ROSELYN DAGUISO) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=220&section=header&text=ROSELYN%20DAGUISO&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlign=50&fontAlignY=40" width="100%" alt="Animated Header Banner" />
+</p>
+
+<!-- QUOTE & VISITORS COUNTER -->
 <p align="center">
   ✨ <i>"Building the future, one line of code at a time."</i> ✨
 </p>
@@ -8,13 +13,6 @@
 </p>
 
 <hr />
-
-<!-- DYNAMIC HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=200&section=header&text=Roselyn%20Daguiso&fontSize=32&fontColor=ffffff&animation=twinkling&desc=BSIT%20Student%20%7C%20Aspiring%20Web%20%26%20Software%20Developer&descFontSize=14&descAlign=50&descAlignY=62" width="100%" alt="Dynamic Header Banner" />
-</p>
-
-<br />
 
 <!-- ABOUT ME -->
 <h3 align="center">💜 About Me</h3>
@@ -90,8 +88,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roselyndaguiso26-pixel&theme=tokyonight&hide_border=false&border_radius=10&border=8b5cf6&background=0f172a&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" width="100%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roselyndaguiso26-pixel/roselyndaguiso26-pixel/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 </p>
