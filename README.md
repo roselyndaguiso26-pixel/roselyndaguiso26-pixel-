@@ -27,15 +27,19 @@
 
 ---
 
-### 📊 GitHub Stats & Streaks
+### 📊 GitHub Stats & Most Used Languages
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=roselyndaguiso26-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roselyndaguiso26-pixel&theme=tokyonight&hide_border=true&background=0D1117&side_sparkeline_color=38BDF8&ring=38BDF8" alt="GitHub Streak" />
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselyndaguiso26-pixel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselyndaguiso26-pixel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" alt="Most Used Languages" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roselyndaguiso26-pixel&theme=tokyonight&hide_border=true&background=0D1117&side_sparkeline_color=38BDF8&ring=38BDF8" alt="GitHub Streak" />
 
 </div>
 
@@ -44,3 +48,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=roselyndaguiso26-pixel&color=38BDF8&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
+
