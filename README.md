@@ -58,16 +58,16 @@
 
 <div align="center">
 
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+<a href="https://instagram.com/https://www.instagram.com/rslyn__?xtok=aHl2dXVjMjY4dnBo" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://tiktok.com/@YOUR_TIKTOK" target="_blank">
+<a href="https://tiktok.com/@tiktok.com/@_raiaha__" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
-<a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+<a href="https://facebook.com/https://www.facebook.com/sesorrr777?mibextid=rS40aB7S9Ucbxw6v" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/roselyn-daguiso-466125447?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
