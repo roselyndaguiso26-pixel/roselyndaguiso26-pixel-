@@ -11,6 +11,7 @@
 </p>
 
 ---
+
 ### 🎓 BSIT Student | 💻 Aspiring Web & Software Developer
 
 ### 🔍 About Me
@@ -43,13 +44,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roselyndaguiso26-pixel &show_icons=true&locale=en&theme=rose_pine" alt="Roselyn's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselyndaguiso&layout=compact&theme=rose_pine" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=roselyndaguiso&show_icons=true&theme=rose_pine" alt="Roselyn's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=roselyndaguiso&layout=compact&theme=rose_pine" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roselyndaguiso26-pixel &theme=rose_pine" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roselyndaguiso&theme=react-dark&bg_color=181825&color=d4af37&line=800020&point=f5f5dc&area=true&hide_border=true" alt="Roselyn's Contribution Graph" width="97%" />
 </p>
 
 ---
-
