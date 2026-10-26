@@ -1,6 +1,9 @@
 <div align="center">
 
-# ───  ✦  Roselyn Daguiso  ✦  ───
+<!-- Premium Aesthetic Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,50:111827,100:0284c7&height=200&section=header&text=Roselyn%20Daguiso&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+
+<br><br>
 
 <p align="center">
   <code><b>3rd-Year IT Student</b></code> &nbsp;•&nbsp; 
@@ -105,20 +108,32 @@
 
 <br>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://tiktok.com/@YOUR_TIKTOK" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<table align="center">
+  <tr>
+    <td align="center" style="border:none;">
+      <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://tiktok.com/@YOUR_TIKTOK" target="_blank">
+        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:none;">
+      <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" style="border:none;">
+      <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
+
