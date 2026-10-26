@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi po
+Hi there! 👋 I'm Roselyn, an IT student passionate about building functional and efficient web applications.
 
 
 # 💻 Tech Stack:
