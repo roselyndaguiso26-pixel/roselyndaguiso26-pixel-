@@ -1,17 +1,17 @@
 <div align="center">
 
-<!-- Custom Sleek Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:111827,100:0284c7&height=200&section=header&text=Roselyn%20Daguiso&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<!-- Classy & Aesthetic Minimalist Banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e293b,100:334155&height=180&section=header&text=Roselyn%20Daguiso&fontSize=36&fontColor=f8fafc&animation=fadeIn&fontAlignY=45" width="100%" />
 
 <br>
 
-### 👩‍💻 Third-Year IT Student & Web Developer
-`PHP` • `Laravel` • `MySQL` • `C#`
+### ✧ Third-Year IT Student & Web Developer ✧
+*`Crafting elegant web architectures & database systems`*
 
 <br>
 
 <a href="https://github.com/roselyndaguiso26-pixel">
-  <img src="https://komarev.com/ghpvc/?username=roselyndaguiso26-pixel&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=roselyndaguiso26-pixel&color=334155&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </a>
 
 </div>
@@ -40,23 +40,43 @@
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roselyndaguiso26-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=roselyndaguiso26-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=f8fafc&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselyndaguiso26-pixel&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=94a3b8" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselyndaguiso26-pixel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=f8fafc&text_color=94a3b8" alt="Most Used Languages" />
 
 </div>
 
 ---
 
+### 🌐 Contact Me Here
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:111827,100:090d16&height=100&section=footer" width="100%" />
+<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://tiktok.com/@YOUR_TIKTOK" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+<a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:334155,50:1e293b,100:0f172a&height=30&section=footer" width="100%" />
+
+</div>
